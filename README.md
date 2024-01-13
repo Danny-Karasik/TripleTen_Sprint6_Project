@@ -1,5 +1,4 @@
-# wine_choice
-
+# TripleTen_Sprint6_Project
 
 ## Project description
 
