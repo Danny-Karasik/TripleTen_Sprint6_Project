@@ -1,6 +1,6 @@
 # wine_choice
 
 
-##Project description
+## Project description
 
-###Link to my app:
+### Link to my app:
